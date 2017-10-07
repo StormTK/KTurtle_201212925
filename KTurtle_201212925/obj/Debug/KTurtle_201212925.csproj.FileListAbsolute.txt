@@ -1,0 +1,10 @@
+E:\CodigoTK\KTurtle_201212925\KTurtle_201212925\bin\Debug\KTurtle_201212925.exe.config
+E:\CodigoTK\KTurtle_201212925\KTurtle_201212925\bin\Debug\KTurtle_201212925.exe
+E:\CodigoTK\KTurtle_201212925\KTurtle_201212925\bin\Debug\KTurtle_201212925.pdb
+E:\CodigoTK\KTurtle_201212925\KTurtle_201212925\obj\Debug\KTurtle_201212925.csprojResolveAssemblyReference.cache
+E:\CodigoTK\KTurtle_201212925\KTurtle_201212925\obj\Debug\KTurtle_201212925.Kturtle.resources
+E:\CodigoTK\KTurtle_201212925\KTurtle_201212925\obj\Debug\KTurtle_201212925.Properties.Resources.resources
+E:\CodigoTK\KTurtle_201212925\KTurtle_201212925\obj\Debug\KTurtle_201212925.csproj.GenerateResource.Cache
+E:\CodigoTK\KTurtle_201212925\KTurtle_201212925\obj\Debug\KTurtle_201212925.exe
+E:\CodigoTK\KTurtle_201212925\KTurtle_201212925\obj\Debug\KTurtle_201212925.pdb
+E:\CodigoTK\KTurtle_201212925\KTurtle_201212925\obj\Debug\KTurtle_201212925.FormEstudiante.resources
